@@ -13,22 +13,11 @@ I’m driven by **problem-solving**, **continuous learning**, and exploring **em
 ---
 
 ## 🌐 Connect with me:
-
-<a href="mailto:mahmoodhanafi442@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mahmoud-hanafy442" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/MahmoudHanafy19" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/mahmood.hanafi.395" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/ma7moud.hanafy" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mahmoodhanafi442@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-hanafy442)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MahmoudHanafy19)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mahmood.hanafi.395)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ma7moud.hanafy)
 
 ---
 
