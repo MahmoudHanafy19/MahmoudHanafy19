@@ -28,7 +28,6 @@ I’m driven by **problem-solving**, **continuous learning**, and exploring **em
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 **Other Languages & Tools**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
