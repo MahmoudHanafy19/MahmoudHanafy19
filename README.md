@@ -33,6 +33,7 @@ I’m driven by **problem-solving**, **continuous learning**, and exploring **em
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)
 
 ---
 
