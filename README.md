@@ -1,6 +1,17 @@
 ## Fancy seeing you here! <img src="https://github.com/MahmoudHanafy19/MahmoudHanafy19/blob/main/wave.gif" width="30">
 
-I'm **Mahmoud Hanafy**, a **Front-End Developer** and a final-year **Computer Science student**.  
+<div align="center">
+
+## Mahmoud Hanafy  
+
+🚀 Front-End Developer | 🎓 Computer Science Student | 💻 Passionate About Web Development  
+
+</div>
+
+---
+
+## 👨‍💻 About me:
+I’m a **Front-End Developer** and a final-year **Computer Science student**.  
 I’m passionate about building modern, responsive, and user-friendly web applications.  
 
 I had the opportunity to join the **NTI (National Telecommunication Institute) Web Development Training Program**,  
