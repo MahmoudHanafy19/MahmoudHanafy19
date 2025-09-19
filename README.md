@@ -14,7 +14,7 @@ I’m driven by **problem-solving**, **continuous learning**, and exploring **em
 
 ## 🌐 Connect with me:
 
-<a href="mailto:mahmoodhanafi442@gmail.com" target="_blank" style={text-decuration="none"}>
+<a href="mailto:mahmoodhanafi442@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoud-hanafy442" target="_blank">
@@ -73,7 +73,5 @@ I’m driven by **problem-solving**, **continuous learning**, and exploring **em
 
 ## 📊 GitHub Stats  
 
-| ![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudHanafy19&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHanafy19&layout=compact&theme=radical) |
+| <a href="https://github-readme-stats.vercel.app/api?username=MahmoudHanafy19&show_icons=true&theme=radical" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=MahmoudHanafy19&show_icons=true&theme=radical" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHanafy19&layout=compact&theme=radical" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHanafy19&layout=compact&theme=radical" /></a> |
 |---|---|
-
----
