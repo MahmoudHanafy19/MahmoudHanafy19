@@ -14,7 +14,7 @@ I’m driven by **problem-solving**, **continuous learning**, and exploring **em
 
 ## 🌐 Connect with me:
 
-<a href="mailto:mahmoodhanafi442@gmail.com" target="_blank">
+<a href="mailto:mahmoodhanafi442@gmail.com" target="_blank" style={text-decuration="none"}>
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoud-hanafy442" target="_blank">
@@ -29,6 +29,7 @@ I’m driven by **problem-solving**, **continuous learning**, and exploring **em
 <a href="https://www.instagram.com/ma7moud.hanafy" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
 </a>
+
 ---
 
 ## ⚡ Technical Skills
