@@ -1,4 +1,4 @@
-# 👋 Fancy seeing you here!
+## Fancy seeing you here! <img src="https://github.com/MahmoudHanafy19/MahmoudHanafy19/blob/main/wave.gif" width="30">
 
 I'm **Mahmoud Hanafy**, a **Front-End Developer** and a final-year **Computer Science student**.  
 I’m passionate about building modern, responsive, and user-friendly web applications.  
